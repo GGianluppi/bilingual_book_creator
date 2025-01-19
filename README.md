@@ -2,7 +2,7 @@
 
 This project provides a step-by-step guide to create a bilingual PDF book by combining two PDFs. Follow the steps below to generate a dual-language document.
 
-## Steps to Create your own Bilingual PDF Book
+## Steps to create your own Bilingual PDF Book
 
 ### Step 1: Find the PDF in the Target Language
 
