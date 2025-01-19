@@ -4,7 +4,7 @@ This project provides a step-by-step guide to create a bilingual PDF book by com
 
 ## Steps to create your own Bilingual PDF Book
 
-### Step 1: Find the PDF in the Target Language
+### Step 1: Find the PDF in the target language
 
  Identify and download the PDF document.
 
@@ -15,7 +15,7 @@ This project provides a step-by-step guide to create a bilingual PDF book by com
 Use the [Online Doc Translator](https://www.onlinedoctranslator.com/en/translationform) to translate your PDF into the target language:
 
 
-### Step 3: Combine PDFs Using PDFtk
+### Step 3: Combine PDFs using PDFtk
 
  Merge the two PDFs into a single file using the PDFtk tool.
 
@@ -26,7 +26,7 @@ Use the [Online Doc Translator](https://www.onlinedoctranslator.com/en/translati
    ```
 
 
-### Step 4: Use an Automation Script to Split and Merge Pages
+### Step 4: Use an automation script to split and merge pages
 
 * Execute the script:
 
@@ -37,7 +37,7 @@ Use the [Online Doc Translator](https://www.onlinedoctranslator.com/en/translati
 This will generate a new file named `combined.pdf`.
 
 
-### Step 5: Adjust the Final Bilingual Book PDF
+### Step 5: Adjust the final bilingual book PDF
 
 Open the `combined.pdf` file.
 
